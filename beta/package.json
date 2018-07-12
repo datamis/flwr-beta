@@ -1,0 +1,27 @@
+{
+  "name": "FLWR",
+  "version": "1.0.0",
+  "description": "FLWR",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/datamis/flwr",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Datamis",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "bootstrap4": "0.0.1-security",
+    "devtron": "^1.4.0",
+    "electron": "^2.0.0",
+    "jquery": "^3.3.1",
+    "perfect-scrollbar": "^1.4.0",
+    "popper.js": "^1.14.3"
+  }
+}
